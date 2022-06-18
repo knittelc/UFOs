@@ -10,8 +10,18 @@
 - CSS
 
 ## Results
-There is a description of how to perform a search, with images. (4 pt)
+-Usage
+ The landing page pulls up a navigation bar (which reloads the page), the header/title, the article title and article splitting the screen, and finally by scrolling down; the table comes into view.  
+![page landing](https://user-images.githubusercontent.com/102183530/174441624-67b9496c-caca-4fa6-95ac-f46e964c5170.png)
 
+- Design Elements
+ When the filter and table are in sight, the user is able to filter by any one or multiple categories.  Here are examples of a state and country filter, then a shape filter.  Upon entering the desired filter text, a hard 'enter' initiates the filter of the data.
+![filter state and country](https://user-images.githubusercontent.com/102183530/174441667-5799665b-5055-4c81-8816-9fbab2e24b60.png)
+
+![filter by shape triangle](https://user-images.githubusercontent.com/102183530/174441671-90052658-6baa-41ac-83f6-ae16ca70233a.png)
+
+ I would also show a filter by date possible, but as all the data are from the same date, while knowing 'HOW' to set this filter, it is sort of useless with this data.  This limitation is discussed below.
+ 
 ## Summary
 
 ### Improvements and Limitations
